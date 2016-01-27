@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'pyknight',
-    packages = ['pkgA', 'pkgB'],
+    packages = ['pkgA'],
     scripts = ['exec'],
     version = '1.0',
     description = 'My first project',
